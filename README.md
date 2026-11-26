@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Версия" src="https://img.shields.io/badge/версия-2.16.0%20beta-4F8CFF?style=flat-square">
+  <img alt="Версия" src="https://img.shields.io/badge/версия-2.16.1%20beta-4F8CFF?style=flat-square">
   <img alt="Android" src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img alt="Размер" src="https://img.shields.io/badge/APK-73%20МБ-8A93A6?style=flat-square">
   <img alt="Лицензия" src="https://img.shields.io/badge/лицензия-проприетарная-C96A4B?style=flat-square">
@@ -81,6 +81,7 @@
   <img src="docs/hardware.jpg" width="240" alt="Железо">
   <img src="docs/monitor.jpg" width="240" alt="Монитор">
   <img src="docs/projects.jpg" width="240" alt="Другие проекты">
+  <img src="docs/about.jpg" width="240" alt="О программе">
 </p>
 
 ## Установка
