@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Версия" src="https://img.shields.io/badge/версия-2.16.2%20beta-4F8CFF?style=flat-square">
+  <img alt="Версия" src="https://img.shields.io/badge/версия-2.16.3%20beta-4F8CFF?style=flat-square">
   <img alt="Android" src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img alt="Размер" src="https://img.shields.io/badge/APK-73%20МБ-8A93A6?style=flat-square">
   <img alt="Лицензия" src="https://img.shields.io/badge/лицензия-проприетарная-C96A4B?style=flat-square">
@@ -133,15 +133,15 @@
 - личное некоммерческое использование на собственных устройствах — разрешено;
 - распространение APK, публикация на сторонних сайтах, продажа, перепродажа и включение в другие продукты — запрещены;
 - декомпиляция, модификация и обход защиты — запрещены;
-- коммерческое использование и распространение — только с письменного разрешения автора.
+- коммерческое использование и распространение — только с моего письменного разрешения.
 
 Полный текст — в файле [LICENSE](LICENSE).
 
-## Автор
+## Кто это сделал
 
-**Стариков Дмитрий Сергеевич** — разработка, дизайн, поддержка.
+Приложение, интерфейс и оформление — **Дмитрий Стариков** ([@EnterPC-Core](https://github.com/EnterPC-Core)).
+Код, дизайн, тексты и скриншоты — мои.
 
-- Профиль: [@EnterPC-Core](https://github.com/EnterPC-Core)
-- Другие проекты: [Enterprise Core](https://github.com/EnterPC-Core/EnterpriseCore-Releases) · [Enterprise Shield](https://github.com/EnterPC-Core/EnterpriseShield-Android)
+- Мои другие проекты: [Enterprise Core](https://github.com/EnterPC-Core/EnterpriseCore-Releases) · [Enterprise Shield](https://github.com/EnterPC-Core/EnterpriseShield-Android)
 
 <sub>Enterprise Hub — инструмент диагностики. Показания берутся из системных API и sysfs; часть данных производитель может скрывать, тогда строка помечается как недоступная.</sub>
