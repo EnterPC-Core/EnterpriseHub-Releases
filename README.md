@@ -76,12 +76,26 @@
 
 ## Скриншоты
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/s1-home.jpg" width="300" alt="Главная"><br><sub><b>Главная</b> — состояние устройства</sub></td>
+    <td align="center"><img src="docs/s2-hardware.jpg" width="300" alt="Железо"><br><sub><b>Железо</b> — паспорт и чип</sub></td>
+    <td align="center"><img src="docs/s3-monitor.jpg" width="300" alt="Монитор"><br><sub><b>Монитор</b> — ЦП, память, сеть</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/s4-compare.jpg" width="300" alt="Сравнение"><br><sub><b>Сравнение</b> — с каталогом моделей</sub></td>
+    <td align="center"><img src="docs/s5-tester.jpg" width="300" alt="Проверка"><br><sub><b>Проверка</b> — восемь тестов</sub></td>
+    <td align="center"><img src="docs/s7-tablet-monitor.jpg" width="300" alt="Планшет"><br><sub><b>Планшет</b> — широкий экран</sub></td>
+  </tr>
+</table>
+
+### Планшетный режим
+
+На экранах от 600 dp интерфейс раскрывается на всю ширину: плитки и таблицы становятся просторнее, текст не растягивается на строку в метр, навигация остаётся под рукой.
+
 <p align="center">
-  <img src="docs/home.jpg" width="240" alt="Главная">
-  <img src="docs/hardware.jpg" width="240" alt="Железо">
-  <img src="docs/monitor.jpg" width="240" alt="Монитор">
-  <img src="docs/projects.jpg" width="240" alt="Другие проекты">
-  <img src="docs/about.jpg" width="240" alt="О программе">
+  <img src="docs/s6-tablet-hardware.jpg" width="420" alt="Железо на планшете">
+  <img src="docs/s7-tablet-monitor.jpg" width="420" alt="Монитор на планшете">
 </p>
 
 ## Установка
