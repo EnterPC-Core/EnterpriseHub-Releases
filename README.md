@@ -137,11 +137,10 @@
 
 Полный текст — в файле [LICENSE](LICENSE).
 
-## Кто это сделал
+## О разработке
 
-Приложение, интерфейс и оформление — **Дмитрий Стариков** ([@EnterPC-Core](https://github.com/EnterPC-Core)).
-Код, дизайн, тексты и скриншоты — мои.
+Приложение и оформление — **Дмитрий Стариков** ([@EnterPC-Core](https://github.com/EnterPC-Core)).
 
-- Мои другие проекты: [Enterprise Core](https://github.com/EnterPC-Core/EnterpriseCore-Releases) · [Enterprise Shield](https://github.com/EnterPC-Core/EnterpriseShield-Android)
+- Другие приложения: [Enterprise Core](https://github.com/EnterPC-Core/EnterpriseCore-Releases) · [Enterprise Shield](https://github.com/EnterPC-Core/EnterpriseShield-Android)
 
 <sub>Enterprise Hub — инструмент диагностики. Показания берутся из системных API и sysfs; часть данных производитель может скрывать, тогда строка помечается как недоступная.</sub>
