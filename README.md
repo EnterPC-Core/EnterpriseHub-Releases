@@ -85,7 +85,7 @@
   <tr>
     <td align="center"><img src="docs/s4-compare.jpg" width="300" alt="Сравнение"><br><sub><b>Сравнение</b> — с каталогом моделей</sub></td>
     <td align="center"><img src="docs/s5-tester.jpg" width="300" alt="Проверка"><br><sub><b>Проверка</b> — восемь тестов</sub></td>
-    <td align="center"><img src="docs/s7-tablet-monitor.jpg" width="300" alt="Планшет"><br><sub><b>Планшет</b> — широкий экран</sub></td>
+    <td align="center"><img src="docs/s8-about.jpg" width="300" alt="О программе"><br><sub><b>О программе</b> — проекты и поддержка</sub></td>
   </tr>
 </table>
 
